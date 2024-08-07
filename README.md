@@ -1,9 +1,7 @@
-# Hi there 👋 🤗 CS+Math @ Cornell
-focusing on lower level computes, interested in leveraging AI in newly untapped markets, has experience in full stack development.
+# 👋 CS+Math @ Cornell 🤗
+currently focusing on low level systems, interested in leveraging AI in newly untapped markets, has experience in full stack development. Learn more about me (here)[https://jerryji.netlify.app] at https://jerryji.netlify.app
 
-![Jerry Ji's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jji-bigg&theme=blueberry&hide_border=false&layout=compact&hide=jupyter%20notebook&theme=github_dark_dimmed)
-
-Learn more about me (here)[https://jerryji.netlify.app] at https://jerryji.netlify.app
+![Jerry Ji's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jji-bigg&theme=blueberry&hide_border=false&layout=compact&hide=jupyter%20notebook&theme=github_dark_dimmed) ignoring jupyter notebooks (50+% bc of cell outputs)
 ## 🧱 Currently Working On 🏗️
 - 🏦 Owe Me: Self Hosted Sveltekit app that lets you track your loans and personal finances; mainly as a way to learn a new web framework other than React, NextJS.
 - 🎓 CourseSphere: LLM+RAG app that answers all your questions about courses, professors, programs of study here at Cornell. We have our own Frontend, but also integrates with Telegram, Discord bots. We have over 100+ monthly active users serving over 250 messages a day. CourseSphere is a great way to discover those niche and hidden courses that you might have overlooked when browsing through over 19k course offerings at Cornell, 8k faculties...
