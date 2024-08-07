@@ -1,15 +1,20 @@
 # 👋 CS+Math @ Cornell 🤗
-currently focusing on low level systems, interested in leveraging AI in newly untapped markets, has experience in full stack development. Learn more about me (here)[https://jerryji.netlify.app] at https://jerryji.netlify.app
+currently focusing on low level systems, interested in leveraging AI in newly untapped markets, has experience in full stack development. Learn more about me at https://jerryji.netlify.app
 
 ![Jerry Ji's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jji-bigg&theme=blueberry&hide_border=false&layout=compact&hide=jupyter%20notebook&theme=github_dark_dimmed) ignoring jupyter notebooks (50+% bc of cell outputs)
 ## 🧱 Currently Working On 🏗️
-- 🏦 Owe Me: Self Hosted Sveltekit app that lets you track your loans and personal finances; mainly as a way to learn a new web framework other than React, NextJS.
-- 🎓 CourseSphere: LLM+RAG app that answers all your questions about courses, professors, programs of study here at Cornell. We have our own Frontend, but also integrates with Telegram, Discord bots. We have over 100+ monthly active users serving over 250 messages a day. CourseSphere is a great way to discover those niche and hidden courses that you might have overlooked when browsing through over 19k course offerings at Cornell, 8k faculties...
-- 👨‍💻 VPS playground: one stop shop for all my experiments in DevOps engineering, linux deployments, self hosted solutions, and VPN server for my privacy.
+#### 🏦 Owe Me [github](/jji-bigG/owe-me)
+Self Hosted Sveltekit app that lets you track your loans and personal finances; mainly as a way to learn a new web framework other than React, NextJS.
+#### 🎓 CourseSphere [github](/LambdaAK/CourseSphere)
+LLM+RAG app that answers all your questions about courses, professors, programs of study here at Cornell. We have our own Frontend, but also integrates with Telegram, Discord bots. We have over 100+ monthly active users serving over 250 messages a day. CourseSphere is a great way to discover those niche and hidden courses that you might have overlooked when browsing through over 19k course offerings at Cornell, 8k faculties...
+#### 👨‍💻 VPS playground
+one stop shop for all my experiments in DevOps engineering, linux deployments, self hosted solutions, and VPN server for my privacy.
 ## 🏛️ Finished Products ⚙️
-- Portfolio Website [hosted here](https://jerryji.netlify.app): Uses the standard React + Tailwind and hosted on my own VPS & Netlify. Also at (http://172.245.184.138:3030)[http://172.245.184.138:3030]
-- Course Roster: web scraping project that builds the knowledge base & vectorstore (pinecone.io) for CourseSphere (over 300 megabytes of raw & preprocessed data from Cornell, RateMyProfessors, Reddit, ...). It started with Requests + BeautifulSoup, but later evolved into more advanced tools like Scrapy, or even Selenium. I also had to prompt LLM's to preprocessing our raw data to filter & extract insights on our data (which is available on my Kaggle).
-- My ML Lib: As an excercise after CS 4780 Intro to ML, I decided to reimplement what I had learned and package them into a Python library.
+#### Portfolio Website: Uses the standard React + Tailwind and hosted on my own VPS & Netlify. Also at (http://172.245.184.138:3030)[http://172.245.184.138:3030]
+#### 🕸️ Course Roster [github](/jji-bigG/cornell-course-roster)
+web scraping project that builds the knowledge base & vectorstore (pinecone.io) for CourseSphere (over 300 megabytes of raw & preprocessed data from Cornell, RateMyProfessors, Reddit, ...). It started with Requests + BeautifulSoup, but later evolved into more advanced tools like Scrapy, or even Selenium. I also had to prompt LLM's to preprocessing our raw data to filter & extract insights on our data (which is available on my Kaggle).
+#### 🤖 My ML Lib [github](/jji-bigG/my_ml_lib)
+As an excercise after CS 4780 Intro to ML, I decided to reimplement what I had learned and package them into a Python library.
 ## 🛠️ Tools I am familiar with 🧰
 In the various projects and ventures, I had used various programming languages, frameworks, libraries, and coding/SWE strategies to achieve my target functionalities.
 
