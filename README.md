@@ -1,7 +1,11 @@
 # 👋 CS+Math @ Cornell 🤗
-currently focusing on low level systems, interested in leveraging AI in newly untapped markets, has experience in full stack development. Learn more about me at https://jerryji.netlify.app
+currently focusing on DevOps / SRE, interested in leveraging AI in newly untapped markets, has experience in full stack development. Learn more about me at https://jerryji.netlify.app
 
-![Jerry Ji's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jji-bigg&theme=blueberry&hide_border=false&layout=compact&hide=jupyter%20notebook&theme=github_dark_dimmed) ignoring jupyter notebooks (50+% bc of cell outputs)
+![Jerry Ji's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jji-bigg&theme=blueberry&hide_border=false&layout=compact&hide=jupyter%20notebook&theme=github_dark_dimmed)
+
+ignoring jupyter notebooks & Java
+
+- email: rj378@cornell.edu
 ## 🧱 Currently Working On 🏗️
 #### 🏦 Owe Me [github](/jji-bigG/owe-me)
 Self Hosted Sveltekit app that lets you track your loans and personal finances; mainly as a way to learn a new web framework other than React, NextJS.
@@ -10,7 +14,8 @@ LLM+RAG app that answers all your questions about courses, professors, programs 
 #### 👨‍💻 VPS playground
 one stop shop for all my experiments in DevOps engineering, linux deployments, self hosted solutions, and VPN server for my privacy.
 ## 🏛️ Finished Products ⚙️
-#### Portfolio Website: Uses the standard React + Tailwind and hosted on my own VPS & Netlify. Also at (http://172.245.184.138:3030)[http://172.245.184.138:3030]
+#### Portfolio Website
+Uses the standard React + Tailwind and hosted on my own VPS & Netlify. Also at http://172.245.184.138:3030
 #### 🕸️ Course Roster [github](/jji-bigG/cornell-course-roster)
 web scraping project that builds the knowledge base & vectorstore (pinecone.io) for CourseSphere (over 300 megabytes of raw & preprocessed data from Cornell, RateMyProfessors, Reddit, ...). It started with Requests + BeautifulSoup, but later evolved into more advanced tools like Scrapy, or even Selenium. I also had to prompt LLM's to preprocessing our raw data to filter & extract insights on our data (which is available on my Kaggle).
 #### 🤖 My ML Lib [github](/jji-bigG/my_ml_lib)
