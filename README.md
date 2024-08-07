@@ -1,11 +1,7 @@
 # 👋 CS+Math @ Cornell 🤗
-currently focusing on DevOps / SRE, interested in leveraging AI in newly untapped markets, has experience in full stack development. Learn more about me at https://jerryji.netlify.app
+currently focusing on DevOps / SRE, interested in leveraging AI in newly untapped markets, has experience in full stack development. Learn more about me at https://jerryji.netlify.app. Email me at rj378@cornell.edu
 
 ![Jerry Ji's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jji-bigg&theme=blueberry&hide_border=false&layout=compact&hide=jupyter%20notebook&theme=github_dark_dimmed)
-
-ignoring jupyter notebooks & Java
-
-- email: rj378@cornell.edu
 ## 🧱 Currently Working On 🏗️
 #### 🏦 Owe Me [github](/jji-bigG/owe-me)
 Self Hosted Sveltekit app that lets you track your loans and personal finances; mainly as a way to learn a new web framework other than React, NextJS.
