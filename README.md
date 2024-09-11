@@ -3,8 +3,8 @@ currently focusing on DevOps / SRE, interested in leveraging AI in newly untappe
 
 ![Jerry Ji's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jji-bigg&theme=blueberry&hide_border=false&layout=compact&hide=jupyter%20notebook&theme=github_dark_dimmed)
 ## 🧱 Currently Working On 🏗️
-#### 🏦 Owe Me [github](https://github.com/jji-bigG/owe-me)
-Self Hosted Sveltekit app that lets you track your loans and personal finances; mainly as a way to learn a new web framework other than React, NextJS.
+#### 📝 Jotion [github](https://github.com/LambdaAK/notion-clone)
+Notion-clone using NextJS (web framework), shadcn/ui + TailwindCSS for styling, Convex Database (realtime backend as a service written in Rust). Written in TypeScript.
 #### 🎓 CourseSphere [github](https://github.com/LambdaAK/CourseSphere)
 LLM+RAG app that answers all your questions about courses, professors, programs of study here at Cornell. We have our own Frontend, but also integrates with Telegram, Discord bots. We have over 100+ monthly active users serving over 250 messages a day. CourseSphere is a great way to discover those niche and hidden courses that you might have overlooked when browsing through over 19k course offerings at Cornell, 8k faculties...
 #### 👨‍💻 VPS playground
