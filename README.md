@@ -1,5 +1,5 @@
 # 👋 CS+Math @ Cornell 🤗
-currently focusing on DevOps / SRE, interested in leveraging AI in newly untapped markets, has experience in full stack development. Learn more about me at https://jerryji.netlify.app. Email me at rj378@cornell.edu
+Experience in Full Stack (NextJS), frontend development, backend microservices (Docker, Jenkins, FastAPI). I am learning Math to elevate my reasoning logic skills. Love ChatGPT, and ask me any questions about LLM, ViT, Diffusions...! Learn more about me at https://jerryji.netlify.app. Email me at rj378@cornell.edu
 
 ![Jerry Ji's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jji-bigg&theme=blueberry&hide_border=false&layout=compact&hide=jupyter%20notebook&theme=github_dark_dimmed)
 ## 🧱 Currently Working On 🏗️
